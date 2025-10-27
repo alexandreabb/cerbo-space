@@ -175,7 +175,7 @@
   "tilesets": [
     {
       "firstgid": 1,
-      "source": "https://raw.githubusercontent.com/alexandreabb/cerbo-space/main/tileset.png",
+      "source": "https://raw.githubusercontent.com/alexandreabb/cerbo-space/main/tileset.png"
     }
   ],
   "tilewidth": 32,
