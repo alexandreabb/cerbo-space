@@ -172,11 +172,11 @@
   "renderorder": "right-down",
   "tiledversion": "1.8.2",
   "tileheight": 32,
-"tilesets": [
-  {
-    "source": "https://raw.githubusercontent.com/alexandreabb/cerbo-space/main/tileset.png"
-  }
-],
+  "tilesets": [
+    {
+      "source": "https://alexandreabb.github.io/cerbo-space/tileset.tsj"
+    }
+  ],
   "tilewidth": 32,
   "type": "map",
   "version": 1.6
